@@ -1,0 +1,11 @@
+{
+  "verifiedExpertLabel": "Verified Expert",
+  "expertRate": "Hourly Rate",
+  "expertRatePerHour": "{{rate}} / hr",
+  "expertFollowers": "Followers",
+  "expertFollowing": "Following",
+  "expertFavoriteButton": "Favorite",
+  "expertAboutTab": "About this Expert",
+  "expertVideosTab": "Videos",
+  "expertReviewsTab": "Reviews"
+}

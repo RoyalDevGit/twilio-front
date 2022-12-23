@@ -1,0 +1,18 @@
+{
+    "filterByLabel": "Filter by",
+    "sortByLabel": "Sort by",
+    "onlineNowLabel": "Online Now",
+    "cancelButton": "Cancel",
+    "applyFilters": "Apply filters",
+    "resetButton": "Reset",
+    "mobileFilterLabel": "Filter experts by",
+    "mobileFilterVerifiedLabel": "Verified experts",
+    "mobileFilterOnlineNowLabel": "Online now",
+    "mobileFilterExpertiseLabel": "Expertise",
+    "mobileFilterLanguageLabel": "Language",
+    "mobileFilterAvailabilityLabel": "Availability",
+    "mobileFilterHourlyPriceLabel": "Hourly Price",
+    "mobileFilterRatingLabel": "Rating",
+    "mobileFilterOnlyLabel": "{{number}} only",
+    "mobileFilterAndUpLabel": "{{number}} and up"
+}

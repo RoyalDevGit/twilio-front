@@ -1,0 +1,10 @@
+{
+    "myScheduleTitle": "Schedule",
+    "viewScheduleTab": "View Schedule",
+    "availabilityTab": "Availability",
+    "sessionSettingsTab": "Session Settings",
+    "noEventsFound": "No Events Found",
+    "upcomingSessionsTab" : "Upcoming",
+    "pastSessionsTab" : "Past",
+    "cancelledSessionsTab" : "Cancelled"
+}

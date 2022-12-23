@@ -1,0 +1,20 @@
+{
+    "activeSessionTitle": "Active Session with ",
+    "backToUpcomingLabel": "Back to Upcoming Sessions",
+    "upcomingSessionTitle": "Upcoming Session with ",
+    "pastSessionTitle": "Past Session with ",
+    "backToPastSessionsLabel": "Back to Past Sessions",
+    "backToScheduleLabel": "Back to Schedule",
+    "expertIn": "Expert in {{expertise}}",
+    "notStarted": "Not Started",
+    "sessionCostLabel": "Session cost",
+    "pastSessionNoteLabel": "Note",
+    "sessionNotesLabel": "Notes",
+    "pastSessionRateLabel": "Rate your session",
+    "savedRecordingsLabel": "Saved recording(s)",
+    "joinButton": "Join",
+    "sendMessage": "Send a message",
+    "rescheduleLabel": "Re-schedule",
+    "cancelLabel": "Cancel",
+    "updatePaymentMethodButton": "Update payment method"
+}

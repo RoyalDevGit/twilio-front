@@ -1,0 +1,14 @@
+{
+  "pageTitle": "Please update your payment details.",
+  "pageDescription": "We’re having some trouble with your current billing information. Please update your payment details ending in ****{{cardLastFour}} to avoid session cancellation. You have {{hoursUntilAutomaticCancellation}} hours until we cancel your session.",
+  "tryAnotherPaymentLabel": "Try another payment method:",
+  "updatePaymentButton": "Continue with new payment method",
+  "tryAnotherPayment": "Try another payment method:",
+  "paymentSelectorHeader": "Payment",
+  "paymentSelectorSubheader": "Credit/Debit Card",
+  "thankYouTitle": "Thank you for updating your payment information.",
+  "thankYouDescription": "Your payment will be placed on hold and processed after your session has been completed.",
+  "joinNowButton": "Join now",
+  "sessionDetailsButton": "See session details",
+  "viewScheduleButton": "View schedule"
+}

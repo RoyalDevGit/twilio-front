@@ -1,0 +1,18 @@
+{
+    "rescheduleSessionLabel": "Re-schedule your session",
+    "rescheduleSessionWithLabel": "with",
+    "rescheduleSessionCalendarLabel": "Select a new date and time",
+    "rescheduleSessionTimePickerLabel": "Available Start Time",
+    "saveButton": "Save",
+    "sessionRescheduledLabel": "Session Re-scheduled",
+    "withLabel": "with",
+    "sessionHourLabel": "Hour",
+    "sessionTotalLabel": "Total",
+    "cancelSessionLabel": "Cancel your session",
+    "sendAMessageLabel": "Send a message to",
+    "textFieldPlaceholder": "Enter your reason here...",
+    "cancelSessionButton": "Cancel this session",
+    "cancelSessionMessage": "Please refer to <l>TOS</l> for session cancellation policy with less than 24 hours notice. ",
+    "rescheduleSessionButton": "Re-schedule this session",
+    "toastNotificationLabel": "This change has been saved"
+}

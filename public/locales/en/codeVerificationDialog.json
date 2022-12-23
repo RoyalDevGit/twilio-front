@@ -1,0 +1,11 @@
+{
+  "dialogTitle": "Enable two-factor authentication via Authenticator App",
+  "dialogTitleMobile": "Two-factor authentication",
+  "firstInstructions": "Enter confirmation code",
+  "secondInstructions": "Please enter the confirmation code you see on your Authenticator App",
+  "continueButton": "Continue",
+  "enabledHeader": "Two-Factor Authentication is Enabled",
+  "enabledMessage": "We'll ask for a code if we notice an attempted login from an unrecognized device or browser",
+  "enterCode": "Enter 6-digit code",
+  "doneButton": "Done"
+}

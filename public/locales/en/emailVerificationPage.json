@@ -1,0 +1,10 @@
+{
+  "emailVerificationPageTitle": "Expert Session - Email Verification",
+  "emailVerifiedSuccessfully": "You have successfully verified your email address.",
+  "emailVerificationNotFound": "Your email could not be verified because your account was not found",
+  "emailAlreadyVerified": "Your email has already been verified",
+  "emailVerificationExpired": "This verification link expired",
+  "emailVerificationContinueToApp": "Go to Expert Session",
+  "emailVerificationFailed": "Email Verification Failed",
+  "verified": "Verified!"
+}

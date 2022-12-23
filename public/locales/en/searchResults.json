@@ -1,0 +1,10 @@
+{
+  "alsoInterestedInLabel": "You may also be interested in",
+  "searchByIndustryLabel": "Search by expertise",
+  "filterLabel": "Filter by",
+  "noSearchResultsFound": "Hmmm....we couldn't find what you were looking for...",
+  "noSearchResultsInstructions": "Double check your spelling or try another search term",
+  "watchVideo": "Watch Video",
+  "visitExpertProfile": "Expert Profile",
+  "searchResultsCount": "{{resultsTotal}} results for \"{{searchText}}\""
+}

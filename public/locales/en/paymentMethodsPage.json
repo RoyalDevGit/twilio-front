@@ -1,0 +1,20 @@
+{
+    "pageHeader": "Payment Methods",
+    "noPaymentMethods": "Set up a payment method(s) to book sessions with experts",
+    "bankAccountTitle": "Bank account information",
+    "bankAccountMobileTitle": "Bank information",
+    "bankAccountDescription": "Where would you like your funds to be deposited?",
+    "bankAccount": "Bank Account",
+    "bankAccountPlaceholder": "Add your bank information",
+    "bankAccountButton": "Add",
+    "bankAccountEdit": "Edit",
+    "bankAccountInfo": "Debit ••••",
+    "addPaymentMethod": "Add payment method",
+    "addAnotherPaymentMethod": "Add another payment method",
+    "confirmDeletionMessage": "Are you sure you want to remove this payment method?",
+    "confirmDeletionMessageCancel": "Cancel",
+    "confirmDeletionMessageYes": "Remove",
+    "markAsPreferred": "Mark as preferred",
+    "preferredPaymentMethodLabel": "Preferred payment method",
+    "remove": "Remove"
+}

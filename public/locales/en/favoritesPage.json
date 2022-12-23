@@ -1,0 +1,9 @@
+{
+    "favoritesPageTitle": "Favorites",
+    "filterLabel": "Filter by",
+    "expertFavoritesTab": "Experts",
+    "videosFavoritesTab": "Videos",
+    "emptyStateLabel": "You have no favorites yet.",
+    "emptyStateDescriptionLabel": "You can add an expert to your favorites page by clicking the heart icon on the expert’s profile page.",
+    "emptyStateButton": "Browse experts"
+}

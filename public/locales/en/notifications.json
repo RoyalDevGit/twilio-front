@@ -1,0 +1,17 @@
+{
+  "notificationsTitle": "Notifications",
+  "reportIssueMenuItem": "Report issue to Expert Session Team",
+  "closeNotificationsMenu": "Close Notifications",
+  "openNotificationsMenu": "Open Notifications",
+  "notificationMenuEmptyState": "You have no notifications",
+  "welcomeCTAExpert": "Finish setting up your account",
+  "welcomeCTAConsumer": "Explore our experts now",
+  "seeThankYouNoteCTA": "See thank you note",
+  "joinNowCTA": "Join now",
+  "seeDetailsCTA": "See details",
+  "viewCommentCTA": "View comment",
+  "viewRatingCTA": "View rating",
+  "seeRecordingCTA": "See recording",
+  "seeVideoCTA": "See video",
+  "updatePaymentMethodCTA": "Please update your payment method"
+}

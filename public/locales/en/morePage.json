@@ -1,0 +1,18 @@
+{
+    "morePageMenuLabel": "Menu",
+    "morePageUpcomingSessionsLabel": "Upcoming Sessions",
+    "morePageCompletedSessionsLabel": "Completed Sessions",
+    "morePageSettingsLabel": "Settings",
+    "morePageOrderHistoryLabel": "Order History",
+    "morePageNotificationsLabel": "Notifications",
+    "morePageMessagesLabel": "Messages",
+    "morePageFavoritesLabel": "Favorites",
+    "morePageEditProfileLabel": "Edit Profile",
+    "morePageAvailabilityLabel": "Availability",
+    "morePageDurationAndPriceLabel": "Duration & Price",
+    "morePageSignOutLabel": "Sign out of Expert Session",
+    "morePageAccountInformationLabel": "Account information",
+    "morePageSecurityLabel": "Security",
+    "morePagePaymentMethodsLabel": "Payment methods",
+    "morePagePreferencesLabel": "Preferences"
+}

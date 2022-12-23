@@ -1,0 +1,39 @@
+{
+  "authenticatorAppTitle": "Enable two-factor authentication via Authenticator App",
+  "textMessagingTitle": "Enable two-factor authentication via Text (SMS)",
+  "twoFaTitleMobile": "Two-factor authentication",
+  "disableTitle": "Are you sure?",
+  "downloadApp": "First, download the Authenticator App onto your device",
+  "scanQrCode": "Then, use the Authenticator App to scan this QR code",
+  "sameDeviceInstructions": "Set up on same device",
+  "enterCodeInstructions": "Or enter this code into your Authenticator App",
+  "continueButton": "Continue",
+  "cancelEnableButton": "Cancel",
+  "disableMessage": "By disabling two-factor authentication your account will be less secure. Are you sure you want to disable two-factor authentication on your account?",
+  "cancelDisableButton": "Cancel",
+  "disableButton": "Disable",
+
+  "dialogTitle": "Two-factor authentication",
+  "dialogTitleMobile": "Two-factor authentication",
+  "enterCodeHeader": "Enter confirmation code",
+  "enterCodeSmsLabel": "Enter the 6-digit code we sent to {{phoneNumber}} to finish setting up two-factor authentication.",
+  "enterCodeAuthenticatorLabel": "Please enter the confirmation code you see on your authentication app.",
+ 
+  "enabledHeader": "Two-Factor Authentication is Enabled",
+  "enabledMessage": "We'll ask for a code if we notice an attempted login from an unrecognized device or browser",
+  "enterCodePlaceholder": "Enter 6-digit code",
+  "doneButton": "Done",
+
+  "selectPhoneHeader": "Select your phone",
+  "addPhoneHeader": "Add phone number",
+  "phoneNumberLabel": "Phone number",
+  "phonePlaceholder": "123-456-7890",
+  "choosePhone": "Select your phone numberChoose a mobile phone number already on your account or add a new phone number for two-factor authentication. This is the number you will receive your verification code on.",
+  "useNewNumber": "Use a new phone number",
+  "learnMore": "Learn More",
+  "phoneNumberInformation1": "This phone number will be enabled for two-factor authentication and login. We may also use the number added here to help protect our community, accurately count people who use our services, and assist you in accessing Expert Session and opt-in programs, but not for purposes such as suggesting friends or providing ads. Only you will see this number on your profile.",
+  "phoneNumberInformation2": "If the number added here is provided elsewhere across Expert Session Products, it may be used for other purposes including suggesting friends or providing ads."
+  
+
+
+}

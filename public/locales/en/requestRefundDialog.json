@@ -1,0 +1,7 @@
+{
+    "title": "Request a refund",
+    "reasonLabel": "Please provide detailed reason(s) for requesting a refund.",
+    "reasonPlaceholder": "Enter reason for refund",
+    "save": "Request Refund",
+    "cancel": "Cancel"
+}

@@ -1,0 +1,8 @@
+{
+    "signupMessageCheckout": "Please enter your details below to create an account and complete booking your session.",
+    "loginMessageCheckout": "Please enter your details below to log in and complete booking your session.",
+    "signupMessageFavorite": "Please enter your details below to create an account and favorite this expert.",
+    "loginMessageFavorite": "Please enter your details below to log in and favorite this expert.",
+    "signupMessageUnauthorized": "In order to access this page, you must sign up.",
+    "loginMessageUnauthorized": "In order to access this page, you must sign in." 
+}

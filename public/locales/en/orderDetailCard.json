@@ -1,0 +1,16 @@
+{
+  "sessionWithLabel": "Session with",
+  "bookingDateLabel": "Booking Date",
+  "orderNumberLabel": "Order",
+  "sessionDateLabel": "Session Date",
+  "startTimeLabel": "Start Time",
+  "endTimeLabel": "End Time",
+  "totalTimeLabel": "Total Time",
+  "paymentTypeLabel": "Payment Type",
+  "paymentTotalLabel": "Payment Total",
+  "requestRefund": "Request a Refund",
+  "viewSessionDetails": "View Session Details",
+  "confirmationDialogTitle": "Request submitted",
+  "confirmationDialogMessage": "Your request for a refund has been submitted, please allow at least 24 hours for it to be processed. Thank you.",
+  "close": "Close"
+}

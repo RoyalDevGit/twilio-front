@@ -1,0 +1,17 @@
+{
+    "modalTitle": "Become an Expert",
+    "expertLabel": "Expert Name",
+    "expertPlaceholder": "Enter your new expert name",
+    "saveExpert": "Create",
+    "cancel": "Cancel",
+    "expertDescriptionLabel": "Description",
+    "expertDescriptionPlaceholder": "Description",
+    "mainAreaOfExpertiseLabel": "Main area of expertise",
+    "mainAreaOfExpertisePlaceholder": "Main area of expertise",
+    "expertLocationLabel": "Location",
+    "expertLocationPlaceholder": "Location",
+    "ratePerHourLabel": "Rate per Hour",
+    "ratePerHourPlaceholder": "Rate per hour",
+    "expertiseTagsLabel": "Other Areas of Expertise",
+    "expertiseCategoriesPlaceholder": "Other Areas of Expertise"
+}

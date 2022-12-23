@@ -1,0 +1,15 @@
+{
+  "pageTitle": "Order History",
+  "allOrdersTab": "All Orders",
+  "upcomingTab": "Upcoming",
+  "completedTab": "Completed",
+  "cancelledTab": "Cancelled",
+  "dateTo": "to",
+  "orderColumnLabel": "Order",
+  "nameColumnLabel": "Name",
+  "dateColumnLabel": "Session Date",
+  "sessionTimeColumnLabel": "Session Time",
+  "paymentTypeColumnLabel": "Payment Type",
+  "statusColumnLabel": "Order Status",
+  "sessionStatusColumnLabel": "Session Status"
+}

@@ -1,0 +1,17 @@
+{
+    "pageHeader": "Checkout",
+    "availableSessionsHeader": "Available Sessions",
+    "availableSessionsSubtitle": "Select the day of your session with this expert",
+    "availableStartTimesHeader": "Available Start Time",
+    "availableStartTimesSubtitle": "Select the time of your session with this expert",
+    "sessionDurationHeader": "Session Duration",
+    "selectDuration": "Select the duration of your session with this expert",
+    "paymentHeader": "Payment",
+    "paymentSubtitle": "Credit/Debit Card",
+    "sessionConfirmationHeader": "Session Confirmation",
+    "reviewInformation": "Please review all the information below before confirming your session",
+    "sessionWith": "Session with {{name}}",
+    "sessionCommentLabel": "Comment (Optional)",
+    "sessionCommentPlaceholder": "Add a note - Keep your questions specific - Share your goal for session",
+    "submitPayment": "Submit payment" 
+}

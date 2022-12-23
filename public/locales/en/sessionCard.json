@@ -1,0 +1,12 @@
+{
+    "joinButton": "Join",
+    "seeDetailsButton": "See details",
+    "recordingsLabel": "{{totalRecordings}} Recordings",
+    "seeSessionDetails": "See session details",
+    "sendAMessageLabel": "Send a message",
+    "rescheduleLabel": "Re-schedule",
+    "cancelLabel": "Cancel",
+    "modifyLabel": "Modify",
+    "notStarted": "Not Started",
+    "updatePaymentMethodButton": "Update payment method"
+}

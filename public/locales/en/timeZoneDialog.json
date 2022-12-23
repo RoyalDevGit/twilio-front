@@ -1,0 +1,9 @@
+{
+    "save": "Save",
+    "cancel": "Cancel",
+    "removeTimeZones": "Remove time zones",
+    "startTimeZone": "Start time zone",
+    "endTimeZone": "End time zone",
+    "timeZoneModalTitle": "Change time zone",
+    "useSeparateTimeZones": "Use separate start and end time zones"
+}

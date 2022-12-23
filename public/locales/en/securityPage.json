@@ -1,0 +1,16 @@
+{
+    "pageTitle": "Login and Security",
+    "passwordLabel": "Password",
+    "hiddenPasswordLabel": "************",
+    "authenticatorAppLabel": "Authenticator App",
+    "authenticatorAppInstructions": "Use Authenticator to generate verification codes",
+    "textVerificationLabel": "Text Message",
+    "textVerificationInstructions": "Use text message (SMS) to receive verification codes",
+    "addButtonLabel": "Add",
+    "enableAuthenticator": "Enable",
+    "disableAuthenticator": "Disable",
+    "enableTextVerification": "Enable",
+    "disableTextVerification": "Disable",
+    "passwordButtonLabel": "Edit",
+    "phoneNumberEnabled": "Two-factor authentication is currently enabled for phone number"   
+}

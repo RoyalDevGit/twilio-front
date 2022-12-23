@@ -1,0 +1,13 @@
+{
+  "deleteRecurringEvent": "Delete recurring event",
+  "editRecurringEvent": "Edit recurring event",
+  "thisEvent": "This event",
+  "thisAndFollowingEvents": "This and following events",
+  "allEvents": "All events",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "sessionWith": "Session w/ {{name}}",
+  "noSessionsBooked": "You do not have any sessions booked.",
+  "browseExpertsLabel": "Browse experts",
+  "manageAvailabilityLabel": "Manage Availability"
+}

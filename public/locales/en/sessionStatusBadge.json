@@ -1,0 +1,11 @@
+{
+  "upcoming": "Upcoming",
+  "active": "Active",
+  "ended": "Complete",
+  "cancelled": "Cancelled",
+  "unknown": "Unknown",
+  "noshow": "No Show",
+  "readyToJoin": "Ready to join",
+  "failedPayment": "Payment Failed",
+  "requiresPayment": "Requires Payment"
+}

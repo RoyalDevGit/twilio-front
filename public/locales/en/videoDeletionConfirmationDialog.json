@@ -1,0 +1,7 @@
+{
+  "permanentlyDeleteAcknowledgement": "I understand that deleting is permanent and cant be undone",
+  "dialogTitle": "Permanently delete this video?",
+  "downloadVideo": "Download Video",
+  "cancel": "Cancel",
+  "deleteForever": "Delete forever"
+}

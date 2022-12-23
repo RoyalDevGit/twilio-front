@@ -1,0 +1,10 @@
+{
+    "connectWith": "Connect with {{expertFirstName}} now",
+    "availableDatesHeader": "Available Sessions",
+    "availableTimesHeader": "Available Time Slots",
+    "bookSession": "Book a Session",
+    "bookSessionOn": "Book a Session on {{date}}",
+    "availableDurationHeader":"Duration",
+    "noAvailableTimesTitle": "Expert not available.",
+    "noAvailableTimesDescription": "Unfortunately, this expert is unavailable right now. Check back later or see our  recommended experts below."
+}

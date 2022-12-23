@@ -1,0 +1,18 @@
+{
+    "messagesPageTitle":"Messages",
+    "noMessagesLabel": "You do not have any messages",
+    "messageTrayTitle": "Inbox",
+    "messageTrayLabel": "See all messages",
+    "messageToolbarPlaceholder": "Type your message here...",
+    "popupChatNewMessagePlaceholder": "New conversation with {{contactName}}",
+    "popupChatNewMessageLabel": "Type something",
+    "inboxEmptyStateLabel": "You have no messages",
+    "lastSeenLabel": "Last Seen: {{lastSeen}}",
+    "chatWith": "Chat with {{name}}",
+    "download": "Download",
+    "atLabel": "at",
+    "toastNotificationInvalidAttachments": "File(s) attached are too big.",
+    "chatMessagingExpiring": "You will not be able to message this expert 48 hours after session has expired.",
+    "lockedToolbarLabel": "Your session expired 48 hours ago and chat is now inactive.",
+    "messagesPageExpiringLabel":"Session date"
+}

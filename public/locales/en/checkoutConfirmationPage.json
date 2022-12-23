@@ -1,0 +1,8 @@
+{
+    "sessionConfirmedWith": "Session confirmed with ",
+    "joinButton": "Join", 
+    "seeDetailsButton": "See Details",
+    "viewSchedule": "View Schedule",
+    "sendAMessageLabel": "Need to send {{expertName}} a message?",
+    "totalLabel": "Total"
+}

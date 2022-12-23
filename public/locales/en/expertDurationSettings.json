@@ -1,0 +1,12 @@
+{
+    "sessionDurationTitle": "Session Duration & Price",
+    "sessionDurationDescription": "Define how long your session will be, minimum of 15 minutes.",
+    "sessionDurationAddButtonLabel": "Add Another",
+    "duration": "Duration",
+    "priceInputLabel": "Price",
+    "durationInHoursLabel": "Duration in Hours",
+    "hourlyRateTitle": "Set your hourly rate",
+    "hourlyRateDescription": "Please, set your hourly rate here. Below, you will be able to define the session times you are willing to offer (in 15 minute increments). Your rate for each session increment you choose to offer will be automatically calculated based off of your hourly rate.",
+    "hourlyRateInputLabel": "Rate",
+    "toastNotificationLabel": "This change has been saved"
+}

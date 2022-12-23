@@ -1,0 +1,10 @@
+{
+  "orderNumberLabel": "Order",
+  "expertNameLabel": "Name",
+  "dateLabel": "Date",
+  "sessionTimeLabel": "Session Time",
+  "sessionStatusColumnLabel": "Session Status",
+  "paymentTypeLabel": "Payment Type",
+  "statusLabel": "Order Status",
+  "detailsLabel": "Details"
+}
